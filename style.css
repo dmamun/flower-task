@@ -1,0 +1,204 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+
+
+.primary-flower{
+    
+    height:250px;
+    width:250px;
+}
+.header{
+    display:flex;
+    align-items: center;
+    justify-content: space-around;
+    background-color: bisque;
+    
+    height:300px;
+}
+.heading1{
+    margin-left: 160px;
+}
+.flower-content{
+    margin-left:160px;
+    color:black;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: 100;
+    font-size: medium;
+    font-style: normal;
+    display: flex;
+    align-items: center;
+}
+.btn{
+    padding:5px;
+    margin:2px;
+    background-color: rgb(138, 59, 59);
+    cursor:pointer;
+    border-radius:2px;
+    color:white;
+}
+.side1{
+    margin-left: 160px;
+}
+.hot-deal{
+    display: flex;
+   
+    align-items:center;
+    justify-content: space-around;
+    background-color: coral;
+}
+.hot-deal-heading{
+    text-align: center;
+    margin-bottom:10px;
+    margin-left: 5px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: 700;
+}
+.off{
+    color:red;
+}
+.para2{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: 100;
+    margin-right:80px;
+    color:black;
+
+}
+.para3{
+    margin-left:60px;
+}
+.btn-signup{
+    margin-bottom:10px;
+    margin-left:200px;
+}
+.flower{
+    height:235px;
+    width:235px;
+    margin:3px;
+    
+}
+.pic1{
+background-color: darkkhaki;
+}
+.pic2{
+background-color: darkgoldenrod;
+}
+.pic3{
+background-color: khaki;
+}
+.pic4{
+background-color: palegoldenrod;
+}
+.instagram-heading{
+    text-align: center;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif ;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+.align0{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 100;
+    margin-bottom:10px;
+}
+.input-type{
+    background-image: url("Flower Asset/R.png");
+    height:100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height:400px;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    
+    
+
+}
+.Flowershop{
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: 900;
+    color:white;
+    padding:10px;
+    
+}
+.footer{
+    
+    background-color:black;
+}
+
+p{
+    color:beige;
+    text-align: center;
+}
+.red{
+    color:red;
+}
+.white{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: 100;
+    font-size: medium;
+}
+.para4{
+    color: beige;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: 100;
+    font-size: medium;
+    font-style: normal;
+}
+.para5{
+    margin-bottom: 10px;
+}
+.feature-flowers{
+    width: 100%;
+    height:500px;
+}
+.feature-text{
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bold;
+    font-size: large;
+    color:black;
+    margin-bottom:10px;
+
+}
+.content{
+    font-size: medium;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: 100;
+    font-style: normal;
+    margin-bottom: 15px;
+}
+.picture{
+    margin-left: 20px;
+    padding-left: 20px;
+    border-top: 50%;
+}
+.flw1{
+    background-color: pink;
+    border-top-left-radius: 50%;
+    border-top-right-radius:50% ;
+}
+.flw2{
+    background-color: aqua;
+    border-top-left-radius: 50%;
+    border-top-right-radius:50% ;
+}
+.flw3{
+    background-color: rgb(105, 87, 134);
+    border-top-left-radius: 50%;
+    border-top-right-radius:50% ;
+}
+/* .flexible1{
+    margin-left:50px;
+    
+    
+}
+.flexible2{
+    margin-left:50px; 
+}
+.flixible2{
+    margin-left:50px; 
+} */
